@@ -1,4 +1,4 @@
- 
+#follow us at instagram www.instagram.com/python_coderz_ and ask if you have any query related to project 
 #importing all libraries
 from tkinter import *
 from timeit import default_timer as timer
